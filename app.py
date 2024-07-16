@@ -11,8 +11,8 @@ def main():
 	st.title("Plotting In Streamlit")
 	# Load Dataset
 	# df = pd.read_csv("data/iris.csv")
-	df = pd.read_csv("data/lang_data.csv")
-	st.dataframe(df.head())
+	#df = pd.read_csv("data/lang_data.csv")
+	#st.dataframe(df.head())
 
 	# Plotting with Plotly
 
